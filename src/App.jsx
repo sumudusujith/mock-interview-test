@@ -4,11 +4,6 @@ import './App.css';
 function App() {
   const data = [23, 12, 45, 66, 34, 98, 35, 52, 71, 18];
 
-
-  function (){
-
-  }
-
   return (
     <>
       <h2>Mock Interview 1 - Test</h2>
